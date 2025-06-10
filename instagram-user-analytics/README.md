@@ -18,5 +18,5 @@ This project analyzes user engagement on a simulated Instagram dataset using SQL
 - Average posts per user was low — room for engagement growth.
 
 ## 📁 Files
-- `queries.sql`: Contains all SQL scripts used in the analysis.
-- `schema.png`:  A visual schema of the database tables.
+- `instagram-user-analytics/queries.sql`: Contains all SQL scripts used in the analysis.
+- `instagram-user-analytics/schema.png`:  A visual schema of the database tables.
