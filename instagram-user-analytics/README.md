@@ -19,5 +19,6 @@ This project analyzes user engagement on a simulated Instagram dataset using SQL
 
 ## 📁 Files
 - [`queries.sql`](./queries.sql): Contains all SQL scripts used in the analysis.
+- [`schema.png`](./schema.png): A visual schema of the database tables. 
 - [`instagram-user-analytics-report.pdf`](./instagram-user-analytics-report.pdf): The complete project report.
-- [`schema.png`](./schema.png): A visual schema of the database tables. *(Add if available)*
+
