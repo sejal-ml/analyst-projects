@@ -19,7 +19,7 @@ This project explores a car specification dataset to uncover what features influ
 - Regression Analysis (Scatter plot + trendline)
 - Data Cleaning using Excel formulas
 
----
+
 
 ## 📊 Key Insights
 
@@ -29,7 +29,7 @@ This project explores a car specification dataset to uncover what features influ
 - **Luxury brands** like Bugatti and Rolls-Royce show significantly higher MSRP  
 - Cars with **fewer cylinders** have better fuel efficiency but lower power output
 
----
+
 
 ## 📁 Files
 
@@ -37,14 +37,14 @@ This project explores a car specification dataset to uncover what features influ
 - [`car-feature-dashboard-report.pdf`](./car-feature-dashboard-report.pdf): Project report with visuals and explanations  
 - [`regression-analysis.png`](./regression-analysis.png): Visual showing relationship between features and price  
 
----
+
 
 ## 📷 Screenshots
 
 ### Dashboard Preview:
 ![Dashboard Preview](./dashboard-preview.png)
 
----
+
 
 ## 🧠 Summary
 
