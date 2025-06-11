@@ -2,7 +2,7 @@
 
 This project explores a car specification dataset to uncover what features influence car pricing, popularity, and fuel efficiency. An interactive Excel dashboard was created using pivot tables, charts, and regression analysis.
 
----
+
 
 ## 📌 Objectives
 
@@ -11,7 +11,7 @@ This project explores a car specification dataset to uncover what features influ
 - Analyze brand vs. feature impact (e.g., luxury vs. standard)
 - Explore fuel efficiency across models and engines
 
----
+
 
 ## 🧰 Tools Used
 
