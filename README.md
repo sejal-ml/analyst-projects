@@ -5,4 +5,4 @@ This repository contains a collection of data analyst projects focused on busine
 - 📊 [Instagram User Analytics](./instagram-user-analytics)
 - 🚗 [Car Feature Analysis](./car-feature-analysis)
 - 📞 [Call Volume Trend](./call-volume-trend)
-- 🏦 [Bank Fraud EDA](./bank-fraud-eda)
+
