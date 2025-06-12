@@ -33,7 +33,7 @@ This project analyzes inbound customer call data for an insurance company to opt
 
 ## 📈 Agents Required by Hour
 
-![Agents Required Line Chart](./agents-required-chart.png)
+![Agents Required Line Chart](call-volume-trend/agents_required_chart.png)
 
 ## 📁 Files
 
