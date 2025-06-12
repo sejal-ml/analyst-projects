@@ -34,7 +34,7 @@ This project explores a car specification dataset to uncover what features influ
 ## 📁 Files
 
 - [`car-feature-dashboard.xlsx`](./car-feature-dashboard.xlsx): Interactive Excel dashboard  
-- [`car-feature-analysis-report.pdf`](./car-feature-analysis-report.pdf): Project report with visuals and explanations  
+- [`car-features-analysis-report.pdf`](./car-feature-analysis-report.pdf): Project report with visuals and explanations  
 
 
 
